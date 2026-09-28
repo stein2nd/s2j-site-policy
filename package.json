@@ -1,0 +1,38 @@
+{
+  "name": "s2j-legal",
+  "version": "0.0.1",
+  "description": "Personal Information, Information Security, etc. (Legal CPT)",
+  "license": "GPL-3.0-or-later",
+  "author": "Koutarou ISHIKAWA <stein2nd@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stein2nd/s2j-legal.git"
+  },
+  "homepage": "https://github.com/stein2nd/s2j-legal#readme",
+  "bugs": {
+    "url": "https://github.com/stein2nd/s2j-legal/issues"
+  },
+  "keywords": [],
+  "workspaces": [],
+  "directories": {},
+  "files": [],
+  "main": "",
+  "scripts": {
+    "lint:docs": "s2j-docs-linter ./README.md ./CHANGELOG.md ./docs/**/*.md ./docs_mod/**/*.md"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "overrides": {
+    "rollup": "^4.63.5"
+  },
+  "devDependencies": {
+    "@s2j/docs-linter": "^1.0.25",
+    "rollup": "^4.63.5",
+    "vite": "^8.3.1"
+  },
+  "allowScripts": {
+    "@s2j/docs-linter": true
+  }
+}

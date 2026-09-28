@@ -1,2 +1,1 @@
-# s2j-legal
-s2j-legal
+# S2J Legal
