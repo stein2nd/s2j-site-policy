@@ -4,6 +4,9 @@
 
 ## 0.0.1 - 2026-09-29
 
+### Changed
+
+* `docs_mod/product-direction.md` の見出しに製品名を付けた。KIS WordPress 側で名称を S2J Site Policy Manager に改めたため、未決の改称項目を閉じた。
 * リポジトリ名を `s2j-site-policy-manager` とした。スラッグの `s2j-site-policy` だけでは、プラグインが何をするものかが伝わらないためである。`package.json` の name と GitHub の URL を合わせた。
 
 * 製品の方向性を検討メモ `docs_mod/product-direction.md` に記録した。表示名、台帳、段階を含み、仕様本文ではない。

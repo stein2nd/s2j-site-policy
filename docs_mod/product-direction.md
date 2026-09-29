@@ -1,4 +1,4 @@
-# 製品の方向性
+# S2J Site Policy Manager - 製品の方向性
 
 本ファイルは、S2J Site Policy Manager の製品方針を検討したメモです。仕様本文ではありません。方向性を確定したあと、`specs.md` と `docs/` に反映します。状態は検討メモです。記録日は2026-09-29です。
 
@@ -187,7 +187,6 @@ KIS 向けに、次を実装します。
 
 ## 未決事項
 
-* KIS WordPress の `docs_mod/specs.md` にある「S2J Legal」と「法務 CPT」を、いつ改めるか
 * 監修者の確保
 * 監修済み文章のライセンス
 * ひな型の本文を、このリポジトリに同梱するか
@@ -217,3 +216,4 @@ WordPress 本体の挙動は、下記の文書を参照しました。
 | 2026-09-29 | `package.json` の description を定めた |
 | 2026-09-29 | 当初の仕様メモの記述を経緯へ移し、旧プロジェクト名を記した |
 | 2026-09-29 | リポジトリ名を `s2j-site-policy-manager` とした |
+| 2026-09-29 | KIS WordPress の `docs_mod/specs.md` で、名称を S2J Site Policy Manager に、データモデルをポリシー台帳に改めた |
