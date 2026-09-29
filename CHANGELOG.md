@@ -6,6 +6,7 @@
 
 * 製品の方向性を検討メモ `docs_mod/product-direction.md` に記録した。表示名、台帳、段階を含み、仕様本文ではない。
 * `docs_mod/specs.md` から検討メモに案内し、仕様本文は方向性を確定したあとに書くとした。
+* リポジトリ名を `s2j-site-policy` とし、`package.json` の name と GitHub の URL を合わせた。
 
 ## 0.0.1 - 2026-09-28
 

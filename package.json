@@ -1,16 +1,16 @@
 {
-  "name": "s2j-legal",
+  "name": "s2j-site-policy",
   "version": "0.0.1",
   "description": "Personal Information, Information Security, etc. (Legal CPT)",
   "license": "GPL-3.0-or-later",
   "author": "Koutarou ISHIKAWA <stein2nd@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stein2nd/s2j-legal.git"
+    "url": "git+https://github.com/stein2nd/s2j-site-policy.git"
   },
-  "homepage": "https://github.com/stein2nd/s2j-legal#readme",
+  "homepage": "https://github.com/stein2nd/s2j-site-policy#readme",
   "bugs": {
-    "url": "https://github.com/stein2nd/s2j-legal/issues"
+    "url": "https://github.com/stein2nd/s2j-site-policy/issues"
   },
   "keywords": [],
   "workspaces": [],
