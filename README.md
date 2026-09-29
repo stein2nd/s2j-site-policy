@@ -1,1 +1,1 @@
-# S2J Legal
+# S2J Site Policy Manager

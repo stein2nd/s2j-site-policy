@@ -1,16 +1,16 @@
 {
-  "name": "s2j-site-policy",
+  "name": "s2j-site-policy-manager",
   "version": "0.0.1",
-  "description": "Personal Information, Information Security, etc. (Legal CPT)",
+  "description": "The WordPress privacy page, extended into a ledger of site policies.",
   "license": "GPL-3.0-or-later",
   "author": "Koutarou ISHIKAWA <stein2nd@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stein2nd/s2j-site-policy.git"
+    "url": "git+https://github.com/stein2nd/s2j-site-policy-manager.git"
   },
-  "homepage": "https://github.com/stein2nd/s2j-site-policy#readme",
+  "homepage": "https://github.com/stein2nd/s2j-site-policy-manager#readme",
   "bugs": {
-    "url": "https://github.com/stein2nd/s2j-site-policy/issues"
+    "url": "https://github.com/stein2nd/s2j-site-policy-manager/issues"
   },
   "keywords": [],
   "workspaces": [],
