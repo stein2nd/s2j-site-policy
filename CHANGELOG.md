@@ -2,6 +2,13 @@
 
 ## unreleased
 
+## 0.0.1 - 2026-10-03
+
+### Changed
+
+* `@s2j/docs-linter` を v1.0.26、`rollup` を v4.64.0、`vite` を v8.3.2 に上げ、`overrides` の rollup も合わせた。
+* `.vscode/settings.json` で `npm.enableScriptExplorer` を外し、`json.schemaDownload.enable` を有効にした。
+
 ## 0.0.1 - 2026-10-01
 
 ### Changed
